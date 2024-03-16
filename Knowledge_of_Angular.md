@@ -30,9 +30,9 @@ Command Line Interface [View](http://cli.angular.io/).
 `test.ts` unit test cases.  
 `tsconfig.json` typesript compiler configs.  
 
-  
+
 ### ✖ Package install failed, see above. The Schematic workflow failed. See above.
-If your have the same issue while building the project. Then your Node.js isn't install perfectly. That's for you got the error. to fix this issue you need to run the following command: `npm install` after this you're required file will be installed. Then just run the application `ng serve`.
+If your have the same issue while building the project. Then your Node.js isn't install perfectly. That's for you got the error. to fix this issue you need to run the following command: `npm install` after this you're required file will be installed. Then just run the application `ng serve`. After running the server you might be thinking how to stop it? Well just `ctrl + c` your done.
 
 
 ### It's a lots of pain better work with docker to run others project with there own things :D
